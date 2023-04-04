@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![ogunsakin01's Github stats](https://github-readme-stats.vercel.app/api?username=ogunsakin01&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&theme=dark&show_icons=true&hide_progress=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&theme=dark&show_icons=true&hide_progress=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
