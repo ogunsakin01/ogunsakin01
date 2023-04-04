@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://gpvc.arturio.dev/ogunsakin01)
+
+![ogunsakin01's Github stats](https://github-readme-stats.vercel.app/api?username=ogunsakin01&count_private=true&show_icons=true&include_all_commits=true)
+
+ [![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=ogunsakin01)
