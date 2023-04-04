@@ -1,5 +1,5 @@
-###` Hi there, this is where you start.`
- ###`By the power of truth, I, while still a mortal, conquered the world` ⚡⚡⚡
+## Hi there, this is where you start
+ `By the power of truth, I, while still a mortal, conquered the world ⚡⚡⚡` 
 
 <!--
 **ogunsakin01/ogunsakin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&theme=dark&show_icons=true&hide_progress=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=ogunsakin01)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogunsakin01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
