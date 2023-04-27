@@ -1,5 +1,5 @@
 ## Hi there, this is where you start
- `A patient soul, a carefull mind and, a free man. ⚡⚡⚡` 
+ `A patient soul, a careful mind and, a free man. ⚡⚡⚡` 
 
 <!--
 **ogunsakin01/ogunsakin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
