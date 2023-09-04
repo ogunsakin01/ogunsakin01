@@ -1,7 +1,7 @@
 ## Hi there, this is where you start
  `A patient soul, a careful mind. A free man. ⚡⚡⚡` 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogunsakin01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogunsakin01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
