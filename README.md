@@ -1,8 +1,6 @@
 ## Hi there, this is where you start
  `A patient soul, a careful mind. A free man. ⚡⚡⚡` 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3500&color=131922&lines=A patient soul. a careful mind. A free man)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3500&color=131922&lines=A patient soul. a careful mind. A free man)](https://git.io/typing-svg)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ogunsakin01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunsakin01&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
