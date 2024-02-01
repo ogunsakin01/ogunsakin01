@@ -1,6 +1,6 @@
-# Ogunsakin01 - Full Stack Developer
+# Full Stack Developer 
 
-Hello! I'm Ogunsakin Damilola, a Full Stack Developer based in Bradford, United Kingdom. I have a passion for creating efficient and scalable software solutions using modern technologies. Here, I highlight some of my skills and projects that reflect my expertise.
+Hello! I'm Ogunsakin Damilola, a Full Stack Developer with a strong background in backend development based in Bradford, United Kingdom. I have a passion for creating efficient and scalable software solutions using modern technologies. Here, I highlight some of my skills and projects that reflect my expertise.
 
 ## Technical Skills
 
