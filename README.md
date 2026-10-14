@@ -10,8 +10,8 @@ Fullstack engineer in London. About 10 years building web products, mostly with 
 
 **Open source**
 - [laravel-interswitch](https://github.com/ogunsakin01/laravel-interswitch): Laravel package for the Interswitch payment gateway
-- [laravel-live-chat](https://github.com/ogunsakin01/laravel-live-chat): real-time chat for Laravel apps
-- [laravel-video-demo](https://github.com/ogunsakin01/laravel-video-demo): generate demo videos from a Laravel app (work in progress)
+- [live-chat-project](https://github.com/ogunsakin01/live-chat-project): real-time chat with Laravel and Vue
+- [laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos): generate demo videos from a Laravel app (work in progress)
 - [visa-path](https://github.com/ogunsakin01/visa-path): the VisaPath codebase, going public soon
 - [create-atomic-react](https://github.com/ogunsakin01/react-app-boilerplate): React + TypeScript starter with Storybook, testing, atomic design and Tailwind by default
 
@@ -22,4 +22,4 @@ Fullstack engineer in London. About 10 years building web products, mostly with 
 
 **Elsewhere**
 - [LinkedIn](https://www.linkedin.com/in/damilola-ogunsakin-560967a8)
-- [Medium](https://medium.com/he_is_unique)
+- [Medium](https://medium.com/@he_is_unique)
