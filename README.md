@@ -1,9 +1,11 @@
 # Hi, I'm Dami 👋
 
-Fullstack engineer in London. About 10 years building web products, mostly with PHP/Laravel, Vue and TypeScript on PostgreSQL and AWS.
+Fullstack engineer in London. About 10 years building web products, mostly with PHP/Laravel, Vue and TypeScript on PostgreSQL and AWS. Also did some work with other languages and tools like Python, Google Cloud and Laravel Forge if you ever consider them.
 
 **Currently**
 - Fullstack Software Engineer at Made By Cooper
+
+**Fun Projects**
 - Building [OnCuePay](https://oncuepay.com), a live event marketplace where DJs and performers get paid for audience requests (Laravel 12, Vue 3, Inertia, Stripe)
 - Building [VisaPath](https://visa-path.on-forge.com), an app that helps people moving to or living in the UK track their visa progress and see what options they have
 - Running [Interstack](https://interstack.net), tech career stories
@@ -18,7 +20,7 @@ Fullstack engineer in London. About 10 years building web products, mostly with 
 **Interested in**
 - AI, AI agents and machine learning (MSc Big Data Science)
 - Laravel, BDD, multi-tenant SaaS, payments
-- Tools that make everyday work easier for small trades and businesses
+- Big on tools that make everyday work easier for small trades and businesses
 
 **Elsewhere**
 - [LinkedIn](https://www.linkedin.com/in/damilola-ogunsakin-560967a8)
